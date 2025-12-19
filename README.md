@@ -30,6 +30,18 @@ from mini_tracker import iniciar_tarea, detener_tarea, consultar_total
 iniciar_tarea("Mi tarea")
 detener_tarea(1.25)
 print(consultar_total())
+
 ```
+# Mini Tracker Task
+
+### Registro de Actividad (Consola impresion):
+<img width="725" height="280" alt="image" src="https://github.com/user-attachments/assets/66bad2f8-bc73-4662-a4be-c05db1462905" />
+
+```bash
+[Iniciando tarea: 
+Tiempo agregado: 2.5
+Iniciando tarea: 
+Tiempo agregado: 1.5
+Tiempo total acumulado consultado: 4.0]
 
 Si desea, puedo añadir descripciones más detalladas, ejemplos adicionales o corregir pequeños errores en el código (por ejemplo en `mini_tracker/__init__.py`).
