@@ -2,6 +2,32 @@
 
 Proyecto mínimo para rastrear tiempo de tareas.
 
+## 📂 Estructura del proyecto
+
+```
+mini_tracker_task/
+│
+├── main.py                # Script de ejemplo que demuestra el flujo básico
+├── mini_tracker/          # Paquete principal con la lógica de tiempo
+│   ├── __init__.py        # Inicializador del paquete y funciones públicas
+│   └── time_logic.py      # Implementación de la lógica de tiempo
+├── historial              # Registro de actividad impreso en consola
+├── LICENSE                # Licencia MIT
+└── README.md              # Documentación del proyecto
+```
+## 🚀 Instalación y uso
+Clona el repositorio:
+
+```
+git clone https://github.com/juanpocholo1995/mini_tracker_task.git
+cd mini_tracker_task
+```
+
+## Ejecuta el script de ejemplo:
+```
+python3 main.py
+```
+
 ## Archivos del proyecto
 
 - `LICENSE`: Archivo de licencia del proyecto.
