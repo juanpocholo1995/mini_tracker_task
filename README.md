@@ -69,6 +69,7 @@ Tiempo agregado: 2.5
 Iniciando tarea: 
 Tiempo agregado: 1.5
 Tiempo total acumulado consultado: 4.0]
+```
 
 ## Referencia IA
 https://copilot.microsoft.com/chats/q3po2DWq5wbuD7puoYpso
