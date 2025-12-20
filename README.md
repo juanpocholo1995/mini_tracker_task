@@ -1,5 +1,5 @@
-# mini_tracker_task
-
+## ⏱️ Mini Tracker Task
+Un proyecto mínimo en Python para rastrear el tiempo de tareas. Su objetivo es servir como ejemplo didáctico de cómo estructurar un paquete simple que permita iniciar, detener y consultar tiempos acumulados de actividades.
 Proyecto mínimo para rastrear tiempo de tareas.
 
 ## 📂 Estructura del proyecto
